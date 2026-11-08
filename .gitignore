@@ -1,0 +1,9 @@
+.vercel/
+node_modules/
+.env
+.env.*
+*.pdf
+*.ppt
+*.pptx
+.DS_Store
+
